@@ -1,0 +1,5 @@
+Starting from a crystal, T=1.98 equilibrates to T=1.1
+
+T=1.56 equilibrates to T=0.8
+
+T=0.97 equilibrates to T=1.2
